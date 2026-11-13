@@ -1,0 +1,6 @@
+{
+  "global": {
+    "cmd-shift-r": "mod.open:hopback",
+    "cmd-shift-.": "mod.open:hopback-continue"
+  }
+}
