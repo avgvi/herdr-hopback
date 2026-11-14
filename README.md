@@ -25,6 +25,8 @@ Press **Cmd+Shift+R** and every session you ever ran with Claude Code, Codex, An
 
 https://github.com/user-attachments/assets/92995d54-86fe-4426-9360-b1009021329f
 
+![The hopback pop-up in Herdr: sessions from Claude Code, Codex, Gemini CLI and Pi, with a pinned session, a fork and one marked open](preview.png)
+
 ## What you get
 
 | | |
